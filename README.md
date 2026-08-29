@@ -19,6 +19,9 @@ My background spans medical devices, advanced manufacturing, laser and optical s
 - [AmirOS — Engineering Intelligence](https://asajjadi.github.io/engineering-intelligence-amiros-demo/)  
   Synthetic-data executive dashboard for engineering context, evidence, deterministic readiness assessment, and human-governed review.
 
+- [Orthodontic Design Performance Analytics](https://asajjadi.github.io/orthodontic-design-performance-analytics-demo/)  
+  Synthetic-data dashboard translating orthodontic measurement data into arch/tooth-pair variation analysis and cross-functional R&D, Quality, and Manufacturing review priorities.
+
 ## Focus Areas
 
 - **Product & R&D Leadership** — concept development, technical strategy, cross-functional execution, and program delivery
