@@ -13,6 +13,9 @@ My background spans medical devices, advanced manufacturing, laser and optical s
 - [ClearPath QMS — Traceability & Audit-Readiness](https://asajjadi.github.io/clearpath-portfolio-demo/)  
   Synthetic-data demonstration of evidence gaps, traceability coverage, risk-control verification, and regulated product-development workflow.
 
+- [ClearPath — AI-Guided Medical Device Project Management](https://github.com/asajjadi/clearpath-portfolio-demo/blob/main/AI_GUIDED_PM_CASE_STUDY.md)  
+  Public-safe case study of an AI Coach, lifecycle-based project workflow, auditable activity history, and human-governed agent design.
+
 - [AmirOS — Engineering Intelligence](https://asajjadi.github.io/engineering-intelligence-amiros-demo/)  
   Synthetic-data executive dashboard for engineering context, evidence, deterministic readiness assessment, and human-governed review.
 
