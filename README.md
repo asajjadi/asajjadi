@@ -8,6 +8,14 @@ My background spans medical devices, advanced manufacturing, laser and optical s
 
 🌐 [Utmost Connect](https://www.utmostconnect.org/) · Engineering & technical product-development consulting
 
+## Live Portfolio Demos
+
+- [ClearPath QMS — Traceability & Audit-Readiness](https://asajjadi.github.io/clearpath-portfolio-demo/)  
+  Synthetic-data demonstration of evidence gaps, traceability coverage, risk-control verification, and regulated product-development workflow.
+
+- [AmirOS — Engineering Intelligence](https://asajjadi.github.io/engineering-intelligence-amiros-demo/)  
+  Synthetic-data executive dashboard for engineering context, evidence, deterministic readiness assessment, and human-governed review.
+
 ## Focus Areas
 
 - **Product & R&D Leadership** — concept development, technical strategy, cross-functional execution, and program delivery
