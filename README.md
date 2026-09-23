@@ -10,6 +10,9 @@ My background spans medical devices, advanced manufacturing, laser and optical s
 
 ## Live Portfolio Demos
 
+- [Navier–Stokes AI — CFD Results Dashboard](https://navier-stokes-ai-verification.amir-yousef-sajjadi.chatgpt.site/#results)  
+  Interactive CFD verification with geometry, mesh, pressure and velocity profiles, solver gates, and a [technical report](https://navier-stokes-ai-verification.amir-yousef-sajjadi.chatgpt.site/report.html). Numerical model snapshot; external validation pending. Source repository remains private.
+
 - [ClearPath QMS — Traceability & Audit-Readiness](https://asajjadi.github.io/clearpath-portfolio-demo/)  
   Synthetic-data demonstration of evidence gaps, traceability coverage, risk-control verification, and regulated product-development workflow.
 
